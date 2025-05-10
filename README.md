@@ -104,7 +104,6 @@ To quantify and visualize state-level disparities in healthcare access by comput
 ##  Author
 
 **Sandeep Ghotra**  
-Graduate Student – Technology Management  
 Data Analyst
 
 ---
