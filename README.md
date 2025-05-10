@@ -105,7 +105,7 @@ To quantify and visualize state-level disparities in healthcare access by comput
 
 **Sandeep Ghotra**  
 Graduate Student – Technology Management  
-University of Maryland
+Data Analyst
 
 ---
 
